@@ -6,7 +6,7 @@ venv/
 .env
 
 # Output files
-*.csv
+# *.csv
 *.log
 
 # OS-generated files
@@ -28,4 +28,4 @@ __pycache__/
 *.pdf
 
 # FAQ or context files (optional if sensitive)
-*.csv
+# *.csv
